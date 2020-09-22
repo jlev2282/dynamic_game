@@ -4,6 +4,12 @@
     background-repeat: no-repeat;
 }
 
+#logo {
+    background-image: url("../assets/img/Banner-100.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 #main {
     background-image: url("../assets/img/girl_kicking_ball_3.jpg");
     background-size: contain;
