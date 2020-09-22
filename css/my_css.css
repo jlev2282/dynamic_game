@@ -3,3 +3,7 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+#sideNav {
+    background-color: black;
+}
